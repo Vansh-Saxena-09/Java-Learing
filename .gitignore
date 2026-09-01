@@ -1,0 +1,6 @@
+# Temporary and editor lock files
+.LCK*
+*~
+*.tmp
+.DS_Store
+Thumbs.db
