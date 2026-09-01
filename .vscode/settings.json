@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt"
+    },
+    "java.autobuild.enabled": true,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
