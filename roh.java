@@ -1,3 +1,4 @@
+import java.util.*;
 public class roh{
 public static void main(String[] var0) {
       new Scanner(System.in);
